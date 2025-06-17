@@ -1,6 +1,3 @@
-# AI-Based-HR-Assistant
-An AI-based HR Assistant using Retrieval-Augmented Generation (RAG) for accurate, real-time responses to HR queries. Built with LangChain, HuggingFace, ChromaDB, Qwen, FastAPI, and Streamlit.
-
 # NIRA – AI-Based HR Assistant using RAG
 
 NIRA (Natural Interaction for Responsive Assistance) is an AI-powered HR assistant that uses **Retrieval-Augmented Generation (RAG)** to answer employee queries with contextual accuracy and real-time responsiveness. It is designed to automate routine HR interactions and reduce manual workload, using only open-source tools and local deployment.
