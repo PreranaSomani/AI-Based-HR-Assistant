@@ -26,6 +26,6 @@ LangChain, ChromaDB, Qwen 2.5, Ollama, FastAPI, Streamlit
 
 Prerana Somani  
 Final-year ICT student at PDEU | Incoming MS Data Science @ Stony Brook  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[GitHub](https://github.com/your-username)
+[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prerana-somani-672241256/))  
+[GitHub](https://github.com/PreranaSomani)
 
